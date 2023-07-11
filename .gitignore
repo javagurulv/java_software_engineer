@@ -22,3 +22,5 @@
 *.iml
 *.ipr
 
+module_automation_testing_basics/build
+module_automation_testing_basics/out
