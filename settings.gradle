@@ -1,1 +1,4 @@
 include 'module_automation_testing_basics'
+
+include 'project_private_property_insurance_calculator:stage_1'
+
