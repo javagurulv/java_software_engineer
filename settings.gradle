@@ -4,4 +4,5 @@ include 'project_private_property_insurance_calculator:stage_1'
 include 'project_private_property_insurance_calculator:stage_2'
 include 'project_private_property_insurance_calculator:stage_3'
 include 'project_private_property_insurance_calculator:stage_4'
+include 'project_private_property_insurance_calculator:stage_5'
 
