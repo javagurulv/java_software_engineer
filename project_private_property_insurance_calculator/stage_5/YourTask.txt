@@ -1,4 +1,5 @@
 Далее приведены наши ответы на вопросы заданные в прошлом задании.
+
 Вы можете сравнить ваши и наши ответы.
 
 1. Анализ задания и предметной области (вопросы):
@@ -78,4 +79,4 @@ Preferred invocation of the functionality but may be changed if needed:
 PremiumCalculator#calculate(Policy policy);
 
 Make sure that it is easy to extend implementation for new risk types!!!
-(ключевая фраза влияющая на дизайн решения)
+(ключевая фраза которая должна повлиять на дизайн решения)
