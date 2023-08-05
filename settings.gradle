@@ -8,4 +8,5 @@ include 'project_private_property_insurance_calculator:stage_5'
 include 'project_private_property_insurance_calculator:stage_6'
 include 'project_private_property_insurance_calculator:stage_7'
 include 'project_private_property_insurance_calculator:stage_8'
+include 'project_private_property_insurance_calculator:stage_9'
 
