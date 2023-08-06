@@ -13,4 +13,5 @@ include 'project_private_property_insurance_calculator:stage_10'
 include 'project_private_property_insurance_calculator:stage_11'
 include 'project_private_property_insurance_calculator:stage_12'
 include 'project_private_property_insurance_calculator:stage_13'
+include 'project_private_property_insurance_calculator:stage_14'
 
