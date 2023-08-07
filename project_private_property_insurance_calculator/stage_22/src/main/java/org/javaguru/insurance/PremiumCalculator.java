@@ -11,7 +11,6 @@ public class PremiumCalculator {
     private static final BigDecimal FIRE_COEFFICIENT = new BigDecimal("0.024");
     private static final BigDecimal THEFT_DEFAULT_COEFFICIENT = new BigDecimal("0.11");
     private static final BigDecimal THEFT_COEFFICIENT = new BigDecimal("0.05");
-
     private static final BigDecimal FLOOD_DEFAULT_COEFFICIENT = new BigDecimal("0.014");
     private static final BigDecimal FLOOD_COEFFICIENT = new BigDecimal("0.024");
 
