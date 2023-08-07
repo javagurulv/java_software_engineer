@@ -20,4 +20,5 @@ include 'project_private_property_insurance_calculator:stage_17'
 include 'project_private_property_insurance_calculator:stage_18'
 include 'project_private_property_insurance_calculator:stage_19'
 include 'project_private_property_insurance_calculator:stage_20'
+include 'project_private_property_insurance_calculator:stage_21'
 
